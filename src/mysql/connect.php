@@ -7,7 +7,7 @@ function connectSQL()
     global $_dev;
 
     // récupération du fichier de config
-    $conf = parse_ini_file(pathRecovery() . "mysql.dev.conf");
+    $conf = parse_ini_file("src/" . "config/" . "mysql.dev.conf");
 
     // récupération des paramètres
     $hostMySQL = $conf['host'];

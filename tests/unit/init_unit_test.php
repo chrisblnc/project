@@ -9,7 +9,7 @@ require_once file;
 const table = "";
 
 // récupération de la table
-$tab = selectSQL($table);
+$tab = selectSQL(table);
 
 // récupération des éléments de la table
 foreach ($tab as $t) {
