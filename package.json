@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Basic structure for creating a new project in PHP and MySQL.",
+  "main": "index.php",
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisblnc/project.git"
+  },
+  "author": "chrisblnc.fr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisblnc/project/issues"
+  },
+  "homepage": "https://github.com/chrisblnc/project#readme"
+}
