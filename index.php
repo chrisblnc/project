@@ -13,8 +13,6 @@ $_now = new DateTime('now', new DateTimeZone('Europe/Paris'));
 // titre de la page
 $title = "Accueil";
 
-// import function récupération config
-require_once "src/" . "path.php";
 ?>
 
 <!DOCTYPE html>
